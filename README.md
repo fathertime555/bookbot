@@ -1,1 +1,2 @@
-BookBot is a personal project designed to showoff skills
+BookBot is a personal project designed to showoff skills. Type the filepath to a text document and the program will print out a total word count 
+and a list of the frequency of all of the letters sorted from most to least.
